@@ -23,9 +23,27 @@ import android.util.Log;
 import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.vision.barcode.Barcode;
+
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import static android.widget.Toast.LENGTH_SHORT;
+
 
 /**
  * Main activity demonstrating how to pass extra parameters to an activity that
@@ -101,10 +119,42 @@ public class MainActivity extends Activity implements View.OnClickListener {
         if (requestCode == RC_BARCODE_CAPTURE) {
             if (resultCode == CommonStatusCodes.SUCCESS) {
                 if (data != null) {
-                    Barcode barcode = data.getParcelableExtra(BarcodeCaptureActivity.BarcodeObject);
+                    final Barcode barcode = data.getParcelableExtra(BarcodeCaptureActivity.BarcodeObject);
                     statusMessage.setText(R.string.barcode_success);
                     barcodeValue.setText(barcode.displayValue);
                     Log.d(TAG, "Barcode read: " + barcode.displayValue);
+                    RequestQueue queue = Volley.newRequestQueue(this);
+                    StringRequest postRequest = new StringRequest(Request.Method.POST, "http://172.16.9.79/ingresoUTB/registro",
+                            new Response.Listener<String>()
+                            {
+                                @Override
+                                public void onResponse(String response) {
+                                    Toast.makeText(MainActivity.this, "Error de conexión", LENGTH_SHORT).show();
+                                }
+                            },
+                            new Response.ErrorListener() {
+                                @Override
+                                public void onErrorResponse(VolleyError error) {
+                                    Toast.makeText(MainActivity.this, "Error de conexión", LENGTH_SHORT).show();
+                                }
+                            }){
+                        @Override
+                        protected Map<String, String> getParams() {
+                            Map<String, String> params = new HashMap<String, String>();
+                            params.put("codigo", barcode.displayValue.toLowerCase());
+                            params.put("autor","celador");
+
+                            return params;
+                        }
+
+                        @Override
+                        public Map<String, String> getHeaders() throws AuthFailureError {
+                            Map<String,String> params = new HashMap<String, String>();
+                            params.put("Content-Type","application/x-www-form-urlencoded");
+                            return params;
+                        }
+                    };
+                    queue.add(postRequest);
                 } else {
                     statusMessage.setText(R.string.barcode_failure);
                     Log.d(TAG, "No barcode captured, intent data is null");

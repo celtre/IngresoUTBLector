@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Tetrimino\\Documents\\GitHub\\IngresoUTBLector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Tetrimino\\Documents\\GitHub\\IngresoUTBLector\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\pc\\StudioProjects\\IngresoUTBLector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\activity_main.xml",
         "source": "C:\\Users\\pc\\StudioProjects\\IngresoUTBLector\\app\\src\\main\\res\\layout-v17\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tetrimino\\Documents\\GitHub\\IngresoUTBLector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\activity_main.xml",
+        "source": "C:\\Users\\Tetrimino\\Documents\\GitHub\\IngresoUTBLector\\app\\src\\main\\res\\layout-v17\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\pc\\StudioProjects\\IngresoUTBLector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
