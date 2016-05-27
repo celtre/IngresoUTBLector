@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0491597bde23844634a8fb30f074cf9785dc5347">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c4a8352b58d410078315d0600b52f398483e9998.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_548df4d93a0583771c4b2cdaf2f1ff568d554473.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_5da6f5b94af5ef2743517c5c56e119023573c243.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_ee24d9c5d26afa5a33c12595e6f9fd270faebf68.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_9d9be8864612bb86263cd43e9184081f316eb6b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_aa1feb06f95953d92ec9f1e63acc4d3e46ae30e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_4c6c75b3dec096fd283da3d9317e338bf9eaefe3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_fa1470e74fdb4e2ee41b7fbcd961e5bca4c0df8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_5ae8887d83b94314afd9ea295ec0a20cc27f5abf.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_84776817582270b23b4c3722e1e1cec6447c9233.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_adee8ea299dece1c00e28c9fb56ac05d344df2f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_a902644f99ac896637e222c2ea89ef280b85ab5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_375bef664ed9c0f76155f89d70a59d8e543ed5f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_3afc3ea8bfc386b809493838a50544d7a9699248.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_8b3e3af1b53e6128e441dc05ee0a005d9d97d665.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_003a8a2682783b2c16f289eed9d43bef75912d4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8b8b3c83b912afccc949d1742e2df10c1f74b67e">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\instant-run_7ebb0346924dbf62cd3bcec11511503abfe31b8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_053c8846ebe4c91b9c4aafa794ed2fab00daae6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_2b32b3e103245ec8bd69a947293678690182fd8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_39bd5d4ffce142c9c3ff3f12d9375409181adbb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_ef0181f59f10acf95b308dd36d135e49f1c2ff3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_c2a5f6a75cef8839a098ad97b8891589b6e8fa02.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_ff502fd502a210422465b88deddddea7e322682b.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_5cc49570c5830f3cb8e02beec5859fc763518960.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_f4abf97292bc809d4104e8a1357cc4c491b574de.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_2871e2196cfdf2037fb9a17c8c9620db26a788ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_c3ed73abd15975309aeb63b67eb0ac2725c38ede.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_c0c69df2c01277e158737567c31089fbe224e598.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_d1b0b1b57887a90dd1f0cfa110f53faedf7ca214.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_7b78a7e61ff4a4af84bd8a2f4b74716c284eaf27.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\pc\StudioProjects\IngresoUTBLector\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_5151ec51050834e949ad587074e7b1f4144deb2d.jar" />
+    </item>
+
+</items>
